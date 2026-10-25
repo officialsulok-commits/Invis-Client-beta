@@ -1,6 +1,7 @@
 package com.mucheng.mucute.client.game
 
-
+import com.mucheng.mucute.client.game.module.combat.AutoTotem
+import com.mucheng.mucute.client.game.module.misc.ChatSuffix
 import android.content.Context
 import android.net.Uri
 import com.mucheng.mucute.client.application.AppContext
